@@ -1,2 +1,0 @@
-# slottica
-slottica site
